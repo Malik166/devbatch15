@@ -9,4 +9,7 @@ echo create new batch file
 
 echo create linux code 
 
+echo worldcreate new batch file 
+
+echo worldcreate linux cod
 
